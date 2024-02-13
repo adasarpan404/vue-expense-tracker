@@ -5,3 +5,7 @@ I have built this project by following Traversy Media Youtube [Link](https://you
 ## Screenshots
 
 [![image.png](https://i.postimg.cc/W4cm42Bc/image.png)](https://postimg.cc/w1FRfdxw)
+
+## Add My Touch
+
+- [ ] Saving data inside AppWrite instead of Local Storage.

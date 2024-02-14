@@ -26,7 +26,7 @@ const transactions = ref([]);
 onMounted(() => {
     const savedTransactions = localStorage.getItem('transactions');
     if (savedTransactions) {
-        transactions.value = savedTransactions
+        transactions.value = JSON.parse(savedTransactions)
     }
 })
 
